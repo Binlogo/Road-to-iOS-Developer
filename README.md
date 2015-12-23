@@ -1,28 +1,4 @@
-# myRoad-to-iOS-Developer
-Binboy的iOS学习之路。————《精通iOS开发（第6版）》阅读笔记
-关于：
-作者:[瑞典]Jack Nutting [法]Fredrik Olsson [美]David Mark [美]Jeff LaMarche [译]周庆成 邓强 吴海峰
-笔记目录摘要：
+# Road-to-iOS-Developer
+Binboy的iOS学习之路。
 
-第一章 欢迎来到iOS世界
 
-    1.3 编写iOS应用程序有何不同
-
-第二章 创建项目
-
-    2.2 界面构建器简介
-
-第三章 实现基本交互
-
-    3.1 MVC方法
-    3.3 视图控制器
-    3.4 应用程序委托（代理模式）
-
-第四章 更丰富的用户界面
-
-    4.5 关闭键盘
-    4.7 美化按钮
-    4.8 实现分段控件的操作方法
-    4.9 实现操作表单和警告视图
-
-第五章 自动旋转和自动调整大小
